@@ -1,0 +1,589 @@
+seasoncollected,yearcollected,waterbody,decimallongitude,decimallatitude,scientificname,rankname,scientificnameaccepted,scientificnameauthorship,kingdom,phylum,class,order,family,genus,subgenus,specificepithet,sea
+spring,1994,Baltic Sea,13.425,55.22333333,Capitella,Genus,Capitella,"Blainville, 1828",Animalia,Annelida,Polychaeta,,Capitellidae,Capitella,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Nemertea,Phylum,Nemertea,,Animalia,Nemertea,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Cladocera,Superorder,Diplostraca,"Gerstaecker, 1866",Animalia,Arthropoda,Branchiopoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Foraminifera,Phylum,Foraminifera,"d'Orbigny, 1826",Chromista,Foraminifera,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Arachnida,Class,Arachnida,"Cuvier, 1812",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,13.425,55.22333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Diastylis,Genus,Diastylis,"Say, 1818",Animalia,Arthropoda,Malacostraca,Cumacea,Diastylidae,Diastylis,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Mytilus edulis,Species,Mytilus edulis,"Linnaeus, 1758",Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,,edulis,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Ampharete,Genus,Ampharete,"Malmgren, 1865",Animalia,Annelida,Polychaeta,Terebellida,Ampharetidae,Ampharete,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Terebellidae,Family,Terebellidae,"Johnston, 1846",Animalia,Annelida,Polychaeta,Terebellida,Terebellidae,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Gammarus,Genus,Gammarus,"Fabricius, 1775",Animalia,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Pygospio,Genus,Pygospio,"Claparède, 1863",Animalia,Annelida,Polychaeta,Spionida,Spionidae,Pygospio,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Astarte,Genus,Astarte,"J. Sowerby, 1816",Animalia,Mollusca,Bivalvia,Carditida,Astartidae,Astarte,,,Baltic Sea
+spring,1994,Baltic Sea,14.70833333,55.68,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Cladocera,Superorder,Diplostraca,"Gerstaecker, 1866",Animalia,Arthropoda,Branchiopoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Foraminifera,Phylum,Foraminifera,"d'Orbigny, 1826",Chromista,Foraminifera,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Alkmaria rominji,Species,Alkmaria romijni,"Horst, 1919",Animalia,Annelida,Polychaeta,Terebellida,Ampharetidae,Alkmaria,,romijni,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Scoloplos,Genus,Scoloplos,"Blainville, 1828",Animalia,Annelida,Polychaeta,,Orbiniidae,Scoloplos,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Priapulida,Phylum,Priapulida,"Théel, 1906",Animalia,Priapulida,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Aricidea,Genus,Aricidea,"Webster, 1879",Animalia,Annelida,Polychaeta,,Paraonidae,Aricidea,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,14.865,55.61666667,Trochochaeta multisetosa,Species,Trochochaeta multisetosa,"(Örsted, 1844)",Animalia,Annelida,Polychaeta,Spionida,Trochochaetidae,Trochochaeta,,multisetosa,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Terebellidae,Family,Terebellidae,"Johnston, 1846",Animalia,Annelida,Polychaeta,Terebellida,Terebellidae,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Mytilus edulis,Species,Mytilus edulis,"Linnaeus, 1758",Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,,edulis,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Pygospio,Genus,Pygospio,"Claparède, 1863",Animalia,Annelida,Polychaeta,Spionida,Spionidae,Pygospio,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Nemertea,Phylum,Nemertea,,Animalia,Nemertea,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,15.72666667,55.75,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Pygospio,Genus,Pygospio,"Claparède, 1863",Animalia,Annelida,Polychaeta,Spionida,Spionidae,Pygospio,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Alkmaria rominji,Species,Alkmaria romijni,"Horst, 1919",Animalia,Annelida,Polychaeta,Terebellida,Ampharetidae,Alkmaria,,romijni,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Diastylis,Genus,Diastylis,"Say, 1818",Animalia,Arthropoda,Malacostraca,Cumacea,Diastylidae,Diastylis,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Mytilus edulis,Species,Mytilus edulis,"Linnaeus, 1758",Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,,edulis,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.8,55.83166667,Terebellidae,Family,Terebellidae,"Johnston, 1846",Animalia,Annelida,Polychaeta,Terebellida,Terebellidae,,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Scoloplos,Genus,Scoloplos,"Blainville, 1828",Animalia,Annelida,Polychaeta,,Orbiniidae,Scoloplos,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Scoloplos,Genus,Scoloplos,"Blainville, 1828",Animalia,Annelida,Polychaeta,,Orbiniidae,Scoloplos,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,15.99166667,55.25,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Scoloplos,Genus,Scoloplos,"Blainville, 1828",Animalia,Annelida,Polychaeta,,Orbiniidae,Scoloplos,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Priapulida,Phylum,Priapulida,"Théel, 1906",Animalia,Priapulida,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Aricidea,Genus,Aricidea,"Webster, 1879",Animalia,Annelida,Polychaeta,,Paraonidae,Aricidea,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Trochochaeta multisetosa,Species,Trochochaeta multisetosa,"(Örsted, 1844)",Animalia,Annelida,Polychaeta,Spionida,Trochochaetidae,Trochochaeta,,multisetosa,Baltic Sea
+spring,1994,Baltic Sea,16.065,55.66666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Priapulida,Phylum,Priapulida,"Théel, 1906",Animalia,Priapulida,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.06666667,57.475,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Terebellidae,Family,Terebellidae,"Johnston, 1846",Animalia,Annelida,Polychaeta,Terebellida,Terebellidae,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Priapulida,Phylum,Priapulida,"Théel, 1906",Animalia,Priapulida,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,17.165,56.94666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Mytilus edulis,Species,Mytilus edulis,"Linnaeus, 1758",Animalia,Mollusca,Bivalvia,Mytilida,Mytilidae,Mytilus,,edulis,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Alkmaria rominji,Species,Alkmaria romijni,"Horst, 1919",Animalia,Annelida,Polychaeta,Terebellida,Ampharetidae,Alkmaria,,romijni,Baltic Sea
+summer,1994,Baltic Sea,17.57333333,58.82666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Gammarus,Genus,Gammarus,"Fabricius, 1775",Animalia,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,,,Baltic Sea
+summer,1994,Baltic Sea,17.61666667,58.81666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+summer,1994,Baltic Sea,17.625,58.805,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Foraminifera,Phylum,Foraminifera,"d'Orbigny, 1826",Chromista,Foraminifera,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.68333333,58.73833333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Foraminifera,Phylum,Foraminifera,"d'Orbigny, 1826",Chromista,Foraminifera,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Cladocera,Superorder,Diplostraca,"Gerstaecker, 1866",Animalia,Arthropoda,Branchiopoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Priapulida,Phylum,Priapulida,"Théel, 1906",Animalia,Priapulida,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+summer,1994,Baltic Sea,17.69,58.775,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.81666667,58.745,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Ciliata,Genus,Ciliata,"Couch, 1832",Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Ciliata,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Harmothoe,Genus,Harmothoe,"Kinberg, 1856",Animalia,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,17.83166667,58.76166667,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Biota,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Biota,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Biota,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Biota,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.00166667,61.565,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Ascidiacea,Class,Ascidiacea,"Blainville, 1824",Animalia,Chordata,Ascidiacea,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.1,62.16666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1995,Baltic Sea,18.12166667,61.12833333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,18.23333333,61.18333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Ciliata,Genus,Ciliata,"Couch, 1832",Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Ciliata,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,18.44666667,58.25166667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1995,Baltic Sea,18.945,61.24666667,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Cladocera,Superorder,Diplostraca,"Gerstaecker, 1866",Animalia,Arthropoda,Branchiopoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Pygospio,Genus,Pygospio,"Claparède, 1863",Animalia,Annelida,Polychaeta,Spionida,Spionidae,Pygospio,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Hydrobia,Genus,Hydrobia,"W. Hartmann, 1821",Animalia,Mollusca,Gastropoda,Littorinimorpha,Hydrobiidae,Hydrobia,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Halicryptus,Genus,Halicryptus,"von Siebold, 1849",Animalia,Priapulida,,Halicryptomorpha,Halicryptidae,Halicryptus,,,Baltic Sea
+spring,1994,Baltic Sea,19.095,57.66166667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.67333333,63.34,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.76,63.505,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.77166667,63.49,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Prostoma,Genus,Prostoma,"Dugès, 1828",Animalia,Nemertea,Hoplonemertea,Monostilifera,Prostomatidae,Prostoma,,,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.78,63.48333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Pontoporeia femorata,Species,Pontoporeia femorata,"Krøyer, 1842",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Pontoporeia,,femorata,Baltic Sea
+spring,1994,Baltic Sea,19.85666667,63.38833333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,19.95,63.36166667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Turbellaria,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Biota,,,,,,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Foraminifera,Phylum,Foraminifera,"d'Orbigny, 1826",Chromista,Foraminifera,,,,,,,Baltic Sea
+summer,1994,Baltic Sea,20,62.53333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Macoma balthica,Species,Macoma balthica,"(Linnaeus, 1758)",Animalia,Mollusca,Bivalvia,Cardiida,Tellinidae,Macoma,,balthica,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,20.05,63.43666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Priapulida,Phylum,Priapulida,"Théel, 1906",Animalia,Priapulida,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Polychaeta,Class,Polychaeta,"Grube, 1850",Animalia,Annelida,Polychaeta,,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,20.11166667,63.41666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.435,64.065,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.435,64.065,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,21.435,64.065,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.435,64.065,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.435,64.065,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.435,64.065,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.645,64.24666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Pygospio,Genus,Pygospio,"Claparède, 1863",Animalia,Annelida,Polychaeta,Spionida,Spionidae,Pygospio,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.79333333,64.455,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,21.84166667,64.84333333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Insecta,Subclass,Insecta,,Animalia,Arthropoda,Hexapoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Ciliata,Genus,Ciliata,"Couch, 1832",Animalia,Chordata,Teleostei,Gadiformes,Lotidae,Ciliata,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,21.85833333,64.96,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Gammarus,Genus,Gammarus,"Fabricius, 1775",Animalia,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.06666667,64.70833333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Cladocera,Superorder,Diplostraca,"Gerstaecker, 1866",Animalia,Arthropoda,Branchiopoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Tardigrada,Phylum,Tardigrada,"Doyère, 1840",Animalia,Tardigrada,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.09666667,65.14333333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Ascidiacea,Class,Ascidiacea,"Blainville, 1824",Animalia,Chordata,Ascidiacea,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Acari,Subclass,Acari,"Leach, 1817",Animalia,Arthropoda,Arachnida,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.34666667,65.21666667,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,22.87166667,65.32833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,22.87166667,65.32833333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,22.91666667,65.45666667,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,22.91666667,65.45666667,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Cladocera,Superorder,Diplostraca,"Gerstaecker, 1866",Animalia,Arthropoda,Branchiopoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Saduria entomon,Species,Saduria entomon,"(Linnaeus, 1758)",Animalia,Arthropoda,Malacostraca,Isopoda,Chaetiliidae,Saduria,,entomon,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Turbellaria,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Copepoda,Class,Copepoda,"Milne Edwards, 1840",Animalia,Arthropoda,Copepoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.26333333,64.40833333,Amoeba,Genus,Amoeba,"Ehrenberg, 1830",Protozoa,Amoebozoa,Tubulinea,Euamoebida,Amoebidae,Amoeba,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Oligochaeta,Subclass,Oligochaeta,"Grube, 1850",Animalia,Annelida,Clitellata,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Harpacticoida,Order,Harpacticoida,"Sars G.O., 1903",Animalia,Arthropoda,Copepoda,Harpacticoida,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Nematoda,Phylum,Nematoda,,Animalia,Nematoda,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Ostracoda,Class,Ostracoda,"Latreille, 1802",Animalia,Arthropoda,Ostracoda,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Biota,,,,,,,,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Monoporeia affinis,Species,Monoporeia affinis,"(Lindström, 1855)",Animalia,Arthropoda,Malacostraca,Amphipoda,Pontoporeiidae,Monoporeia,,affinis,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Mysida,Order,Mysida,"Boas, 1883",Animalia,Arthropoda,Malacostraca,Mysida,,,,,Baltic Sea
+spring,1994,Baltic Sea,23.44333333,65.45833333,Bacillariophyceae,Class,Bacillariophyceae,"Haeckel, 1878",Chromista,Ochrophyta,Bacillariophyceae,,,,,,Baltic Sea
