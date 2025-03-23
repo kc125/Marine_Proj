@@ -9,4 +9,4 @@ Black Sea: Slightly weaker but still harmful impact on biodiversity.
 Mediterranean Sea: Data is limited, but biodiversity loss is evident.
 Human-driven degradation is a major concern across all three regions.
 Immediate conservation efforts are essential to prevent further loss.
-![image](https://github.com/user-attachments/assets/3a4baa77-f729-4af2-bfaf-4f64d9e1dfe5)
+
