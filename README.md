@@ -32,3 +32,6 @@ A clean, structured dataset enabling accurate insights into marine biodiversity 
 Effective visualization tools for a better understanding of human impact on marine ecosystems.
 ![image](https://github.com/user-attachments/assets/331a85fd-7d63-4f0f-bf91-7ab87809d05c)
 
+<img width="770" alt="Screenshot 2025-03-10 at 10 34 10" src="https://github.com/user-attachments/assets/e1bbf8c7-6fca-459d-878e-a42fea864ab6" />
+
+
